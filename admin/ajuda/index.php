@@ -22,19 +22,25 @@
 .pdf-link i {
     margin-right: 5px;
 }
-
+.intro-topo {
+    background-color: #f48840;
+    color: #fff;
+    text-align: center;
+    padding: 40px;
+}
 </style>
 </head>
 <body>
+<div class="intro-topo">
+        <h1>Bem-vindo à Página de Ajuda</h1>
+        <p>Abra o PDF de ajuda ou Abra o central de ajuda online.</p>
+</div>
 
     <a href="ajuda.pdf" target="_blank" class="pdf-link">
         <i class="fas fa-file-pdf fa-2x"></i> Abrir PDF
     </a>
-    <a href="guia_usuario.php" target="_blank" class="pdf-link">
-        <i class="fas fa-file-pdf fa-2x"></i> abrir ajuda
-    </a>
     <a href="teste.php" target="_blank" class="pdf-link">
-        <i class="fas fa-file-pdf fa-2x"></i> Teste
+    <i class="fas fa-info-circle fa-2x"></i> Abrir menu online
     </a>
 
 </body>
