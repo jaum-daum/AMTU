@@ -33,6 +33,9 @@
     <a href="guia_usuario.php" target="_blank" class="pdf-link">
         <i class="fas fa-file-pdf fa-2x"></i> abrir ajuda
     </a>
+    <a href="teste.php" target="_blank" class="pdf-link">
+        <i class="fas fa-file-pdf fa-2x"></i> Teste
+    </a>
 
 </body>
 
