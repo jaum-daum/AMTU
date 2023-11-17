@@ -7,7 +7,7 @@
             &copy; 2023 Recarga Flex. Todos os direitos reservados.
         </li>
             <li><a href="/admin/redirecionamentos/politicadpriv.php">Política de Privacidade</a></li>
-            <li><a href="/admin/redirecionamentos/guia_usuario.php">Guia de Usuario</a></li>
+            <li><a href="/admin/ajuda/guia_usuario.php">Guia de Usuario</a></li>
             <li><a href="/admin/redirecionamentos/termos de uso.php">Termos de Uso</a></li>
             <li><a href="/admin/redirecionamentos/contato.php">Contato</a></li>
             

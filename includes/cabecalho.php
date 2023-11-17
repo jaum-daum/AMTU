@@ -30,7 +30,7 @@
                 <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                     <div class="navbar-nav">
                         <a class="nav-link active" aria-current="page" href="/admin">Home</a>
-                        <a class="nav-link" href="#">contato</a>
+                        <a class="nav-link" href="/admin/redirecionamentos/contato.php">contato</a>
                         <a class="nav-link" href="#">serviços</a>
                         <a class="nav-link" href="#">quem somos</a>
                         <a class="nav-link" href="/admin/ajuda/">Ajuda</a>
