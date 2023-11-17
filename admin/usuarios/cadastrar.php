@@ -40,7 +40,7 @@
             <select name="perfil" class="form-select" id="perfil"required>
                 <option>Selecione o Perfil</option>
                 <option value="usuario">Usuario</option>
-                <option value="administrador">administrador</option>
+                <option value="motorista">Motorista</option>
             </select>
         </div>
 
