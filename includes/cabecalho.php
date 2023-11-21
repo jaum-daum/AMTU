@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Recarga Flex</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+    <link rel="stylesheet" href="/assets/css/main.css">
 </head>
 
 <style>
@@ -31,11 +32,11 @@
                     <div class="navbar-nav">
                         <a class="nav-link active" aria-current="page" href="/admin">Home</a>
                         <a class="nav-link" href="/admin/redirecionamentos/contato.php">contato</a>
-                        <a class="nav-link" href="#">serviços</a>
-                        <a class="nav-link" href="#">quem somos</a>
+                        <a class="nav-link" href="/admin/redirecionamentos/servicos.php">serviços</a>
+                        <a class="nav-link" href="/admin/redirecionamentos/quem_somos.php">quem somos</a>
                         <a class="nav-link" href="/admin/ajuda/">Ajuda</a>
                         <a class="nav-link" href="/admin/usuarios/">Usuario</a>
-                        <a class="nav-link" href="#">Entrar</a>
+                        <a class="nav-link" href="/admin/cadastro/login.php/">Entrar</a>
                     </div>
                 </div>
             </div>

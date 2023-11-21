@@ -114,7 +114,6 @@ background-color: #f58634; ;
     text-decoration: underline;
 }
 .container{
-    text-align: center;
     font-size: 200;
 }
 
@@ -125,3 +124,14 @@ background-color: #f58634; ;
     margin-right: auto;
     margin-left: auto;
   }
+  .image_c{
+    display:flex;
+    width: 100%;
+    justify-content: center;
+  }
+  .btn-primary a{
+    text-decoration: none;
+    color: #fff !important;
+    margin-bottom: auto ;
+}
+

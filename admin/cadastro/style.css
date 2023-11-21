@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'inter',sans-serif;
+}
+body{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+    background: #0c0ce94d;
+}
+.container{
+    width: 80%;
+    height: 80vh;
+    display: flex;
+    box-shadow: 5px 5px 10px rgba(0, 0, blue, 212);
+}
+.form-image{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+    padding: 1rem;
+}
+
+.form-image img{
+    width: 31rem;
+}
+.fomr{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: aliceblue;
+    padding: 3rem;
+}
+.form.header{
+    margin-bottom: 3rem;
+    display: flex;
+    justify-content: space-between;
+}
+.login-button button{
+    border: none;
+    background-color: blue;
+    padding: 0.4rem 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.login-button button:hover{
+    background-color: coral;
+}
+.login-button button a {
+    text-decoration: none;
+    font-weight: 500;
+    color:azure;
+}
+.form.header h1::after{
+    content:'' ;
+    display: block;
+    width: 5rem ;
+    height: 0.3rem;
+    background-color: blue;
+    margin: 0 auto;
+    position: absolute;
+}
