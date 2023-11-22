@@ -32,11 +32,10 @@
                 <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                     <div class="navbar-nav">
                         <a class="nav-link active" aria-current="page" href="/principal">Home</a>
-                        <a class="nav-link" href="/admin/redirecionamentos/contato.php">contato</a>
-                        <a class="nav-link" href="/admin/redirecionamentos/servicos.php">serviços</a>
-                        <a class="nav-link" href="/admin/redirecionamentos/quem_somos.php">quem somos</a>
+                        <a class="nav-link" href="/admin/contato/faleconosco.php">contato</a>
+                        <a class="nav-link" href="#servicos">serviços</a>
+                        <a class="nav-link" href="/admin/contato/quemsomos.php">quem somos</a>
                         <a class="nav-link" href="/admin/ajuda/">Ajuda</a>
-                        <a class="nav-link" href="/admin/usuarios/">Usuario</a>
                         <a class="nav-link" href="/admin/cadastro/login.php/">Entrar</a>
                     </div>
                 </div>

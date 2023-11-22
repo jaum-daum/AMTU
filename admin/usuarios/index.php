@@ -23,7 +23,7 @@
                     <th>Nome</th>
                     <th>sobrenome</th>
                     <th>E-mail</th>
-                    <th>cpf</th>
+                    <th>Cartao</th>
                     <th>telefone</th>
                     <th>Perfil</th>
                     <th style="width: 200px;">Ação</th>

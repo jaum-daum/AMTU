@@ -24,7 +24,7 @@
             <input type="email" name="email" id="email" class="form-control" required>
         </div>
         <div class="col-md-6">
-            <label for="cpf" class="form=label">cpf</label>
+            <label for="cpf" class="form=label">Cartao</label>
             <input type="number" name="cpf" id="cpf" class="form-control"required>
         </div>
         <div class="col-md-6">

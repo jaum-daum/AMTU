@@ -4,7 +4,7 @@
 ?>
 
     <main class="container mt-3 mb-3">
-        <h1>Lista de Livros
+        <h1>Area do Administrador
         <a href="cadastrar.php" class="btn btn-primary float-end">Cadastrar</a>
         </h1>
 

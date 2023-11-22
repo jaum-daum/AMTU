@@ -94,7 +94,7 @@ h2.underline {
         <h1>Sistema de Recarga de cartão.</h1>
         <h3>Recarga Flex</h3>
         <a 
-          href="https://api.whatsapp.com/send?phone=5511000000000&text=Quero%20fazer%20um%20agendamento%20hoje!" 
+          href="/admin/contato/quemsomos.php" 
           class="button-contact" 
           target="_blank"
         >
@@ -110,7 +110,7 @@ h2.underline {
 
   <!-- SERVICES -->
 
-  <section class="services">
+  <section class="services" id="servicos">
 
     <div class="services-content container">
     <div class="container">
@@ -131,9 +131,9 @@ h2.underline {
         <div class="haircut-info">
         
             <strong>Recarga no Cartão</strong>
-            <button id="myButton">
+            <a href="/admin/cartao/index.php"><button id="myButton">
             $
-          </button>
+          </button></a>
       </div>
       </div>
 
@@ -144,9 +144,11 @@ h2.underline {
         />
         <div class="haircut-info">
           <strong>Consulta de Saldo</strong>
+          <a href="/admin/cartao/index.php">
           <button id="myButton">
             Saldo
           </button>
+          </a>
         </div>
       </div>
 
@@ -177,28 +179,7 @@ h2.underline {
   width="100%"
   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7476.4115143508725!2d-54.58602051703828!3d-20.45674056051272!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9486e8954ac0b10d%3A0x7149aba0cb5688b8!2sShopping%20Campo%20Grande!5e0!3m2!1sen!2sbr!4v1688840244482!5m2!1sen!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-  <footer class="footer">
-    <div class="footer-icons">
-      <a href="#">
-        <i class="fa-brands fa-instagram fa-2x"></i>   
-       </a>
-       <a href="#">
-         <i class="fa-brands fa-facebook fa-2x"></i>   
-       </a>
-       <a href="#">
-         <i class="fa-brands fa-tiktok fa-2x"></i>   
-       </a>
-    </div>
-
-    <div>
-      <img 
-        src="assets/logo.svg" 
-        alt="Logo barbearia"
-      />
-    </div>
-
-    <p>Copyright 2023 | Dev Barbearia - Todos direitos reservados.</p>
-  </footer>
+  
 
   <!-- Button Whatsapp -->
 
@@ -218,3 +199,4 @@ h2.underline {
 
 
 </html>
+<?php require_once $_SERVER['DOCUMENT_ROOT'] . "/includes/rodape.php";?> 
