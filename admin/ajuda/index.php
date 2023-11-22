@@ -28,9 +28,12 @@
     text-align: center;
     padding: 40px;
 }
+main {
+    min-height: 500px;
+}
 </style>
 </head>
-<body>
+<main>
 <div class="intro-topo">
         <h1>Bem-vindo à Página de Ajuda</h1>
         <p>Abra o PDF de ajuda ou Abra o central de ajuda online.</p>
@@ -42,8 +45,11 @@
     <a href="teste.php" target="_blank" class="pdf-link">
     <i class="fas fa-info-circle fa-2x"></i> Abrir menu online
     </a>
+</main>
 
-</body>
 
 </script>
+
 <?php require_once $_SERVER['DOCUMENT_ROOT'] . "/includes/rodape.php" ?>
+
+</html>

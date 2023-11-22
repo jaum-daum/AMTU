@@ -28,15 +28,7 @@ p {
     padding: 20px;
 }
 
-footer {
-    background-color: #2c3e50;
-    color: #fff;
-    text-align: center;
-    padding: 10px;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-}
+
 
 hr {
     border: 2px solid black;

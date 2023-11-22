@@ -159,9 +159,11 @@ h2.underline {
         />
         <div class="haircut-info">
           <strong>Disque Denúncia</strong>
+          <a href="https://denuncia.sigam.sp.gov.br/">
           <button id="myButton">
             190
           </button>
+          </a>
         </div>
       </div>
 
