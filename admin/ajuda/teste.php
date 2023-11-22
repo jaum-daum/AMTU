@@ -52,6 +52,9 @@ a:hover {
   margin-right: auto;
   margin-left: auto;
 }
+footer{
+    bottom: -180px !important;
+}
 </style>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
@@ -171,6 +174,36 @@ a:hover {
     </a>
     </section>
 </div>
+
+
+
+<style>
+footer {
+    background-color: #011434;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+
+    
+}
+</style>
+<footer class="">
+
+
+    <div class="container">
+      <img 
+        src="/assets/img/logomarca.png" 
+        alt="Logo barbearia"
+        style="width: 10% !important;
+        height: auto;"
+      />
+    </div>
+
+    <p>Copyright 2023 | Recarga Flex - Todos direitos reservados.</p>
+  </footer>
 
 
 

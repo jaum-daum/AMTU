@@ -8,7 +8,11 @@
         $usuarioController->excluirUsuario();
     }
 ?>
-
+<style>
+footer{
+    margin-top: 450px !important;
+}
+</style>
     <main class="container mt-3 mb-3">
         <h1>Lista de Usuários
             <a href="cadastrar.php" class="btn btn-primary float-end">Cadastrar</a>

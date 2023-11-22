@@ -11,6 +11,9 @@
     body {
     text-align: center;
 }
+footer{
+    margin-top: 200px !important;
+}
 
 .pdf-link {
     font-size: 16px;
@@ -31,6 +34,10 @@
 main {
     min-height: 500px;
 }
+
+.iconestopo{
+    margin-top: 200px;
+}
 </style>
 </head>
 <main>
@@ -39,12 +46,14 @@ main {
         <p>Abra o PDF de ajuda ou Abra o central de ajuda online.</p>
 </div>
 
+    <div class="iconestopo">
     <a href="ajuda.pdf" target="_blank" class="pdf-link">
         <i class="fas fa-file-pdf fa-2x"></i> Abrir PDF
-    </a>
+    </a> <br>
     <a href="teste.php" target="_blank" class="pdf-link">
     <i class="fas fa-info-circle fa-2x"></i> Abrir menu online
     </a>
+</div>
 </main>
 
 

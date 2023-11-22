@@ -22,7 +22,11 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     }
 }
 ?>
-
+<style>
+footer{
+    bottom: -230px !important;
+}
+</style>
 <div class="container">
     <div class="image_c">
         <img src="/assets/img/logomarca.png" width="300">

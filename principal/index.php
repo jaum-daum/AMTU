@@ -174,7 +174,7 @@ h2.underline {
   <!-- FOOTER -->
 
   <div class="services">
-    <h2>Venha conhecer</h2>
+    <h2 class="underline">Venha conhecer</h2>
   </div>
 
   <iframe

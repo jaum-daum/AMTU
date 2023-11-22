@@ -8,7 +8,11 @@
 
     //var_dump($usuario);
 ?>
-
+<style>
+footer{
+    margin-top: 270px !important;
+}
+</style>
 <main class="container mt-3 mb-3">
     <h1>Editar Usuário</h1>
 

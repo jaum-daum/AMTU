@@ -35,7 +35,7 @@
                         <a class="nav-link" href="/admin/redirecionamentos/contato.php">contato</a>
                         <a class="nav-link" href="/admin/redirecionamentos/servicos.php">serviços</a>
                         <a class="nav-link" href="/admin/redirecionamentos/quem_somos.php">quem somos</a>
-                        <a class="nav-link" href="/admin/ajuda/">Ajuda</a>
+                        <a class="nav-link" href="/admin/ajuda/teste.php">Ajuda</a>
                         <a class="nav-link" href="/admin/cadastro/login.php/">Entrar</a>
                     </div>
                 </div>
