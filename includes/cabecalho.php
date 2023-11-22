@@ -7,6 +7,7 @@
     <title>Recarga Flex</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
     <link rel="stylesheet" href="/assets/css/main.css">
+    <script src="https://kit.fontawesome.com/88650f833b.js" crossorigin="anonymous"></script>
 </head>
 
 <style>
@@ -30,7 +31,7 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                     <div class="navbar-nav">
-                        <a class="nav-link active" aria-current="page" href="/admin">Home</a>
+                        <a class="nav-link active" aria-current="page" href="/principal">Home</a>
                         <a class="nav-link" href="/admin/redirecionamentos/contato.php">contato</a>
                         <a class="nav-link" href="/admin/redirecionamentos/servicos.php">serviços</a>
                         <a class="nav-link" href="/admin/redirecionamentos/quem_somos.php">quem somos</a>
