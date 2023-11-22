@@ -154,7 +154,16 @@ background-color: #f58634; ;
 }
 .nos{
     text-align: center;
-    
+
+}
+.consulta{
+    text-align: center;
+    border-bottom:4px solid #f58634;
+    width: 300px;
+    margin: 0 auto;
+}
+.disque{
+    text-align: center;
 }
 
 

@@ -6,29 +6,49 @@ require_once $_SERVER['DOCUMENT_ROOT'] . "/includes/cabecalho.php";
     <div class="container">
         <div class="nos">
             <img data-aos="flip-up" data-aos-delay="300" data-aos-duration="1500" src="/assets/img/maozinha.png"
-                alt="local" width="700" class="imagem-redimensionada" />
+                alt="local" width="400" class="imagem-redimensionada" />
         </div>
     </div>
-    <path d="M0 3.795l2.995-2.98 11.132 11.185-11.132 11.186-2.995-2.981 8.167-8.205-8.167-8.205zm18.04 8.205l-8.167 8.205 2.995 2.98 11.132-11.185-11.132-11.186-2.995 2.98 8.167 8.206z"></path>
     <div class="container">
-        <div class="quem text-center">
-            <h1>Quem Somos</h1>
+        <div class="servicos text-center">
+            <h1>Seviços</h1>
+            <hr>
+            <div class="recarga">
+            <img src="/assets/img/recarga-de-credito.jpg" alt="css">
+            <h2>Recarga de Saldo</h2>
             <h3>Entendo que a sua empresa de tecnologia visa<h3>
-                    <h3>facilitar a vida dos usuários de transporte público <h3>
-                    <h3>ou privado, oferecendo soluções para tarefas como<h3>
-                    <h3>recarga de cartões e bloqueio de cartões etc de<h3>
-                    <h3>forma conveniente, eliminando a necessidade de <h3>
-                    <h3>deslocamentos físicos até os locais de atendimento. <h3>
-                    <h3>Essa abordagem pode ser altamente benéfica para <h3>
-                    <h3>os clientes, economizando tempo e tornando a<h3>
-                    <h3>experiência de uso do transporte mais eficiente e <h3>
-                    <h3>acessível. Além disso, as tecnologias podem <h3>
-                    <h3>melhorar a gestão e a eficiência das operações de<h3>
-                    <h3> transporte, beneficiando tanto os usuários quanto <h3>
-                    <h3>as empresas do setor.<h3>
+                    <h3>Um dos nossos serviços conta <h3>
+                    <h3>com a recarga virtual de seu cartão.<h3>
+                    <h3>O Cliente seleciona o valor que deseja <h3>
+                    <h3>adicionar ao cartão e escolhe o método <h3>
+                    <h3>de pagamento seja via pix ou credito. facilitando <h3>
+                    <h3>ele no dia-a-dia.<h3>
+                    
                                     <hr>
+            <hr>
+            <img src="/assets/img/images_consulta.jpg" alt="css">
+            <h2>Consultar Saldo</h2>
+            <h3>A consulta de saldo é uma funcionalidade<h3>
+            <h3>essencial para que o  usuario  se mantenha<h3>
+            <h3> informado sobre o valor disponivel em seu cartão.<h3>
+            <h3>Permitindo que cliente acompanhe seus gastos e se<h3>
+            <h3>for necessessario faça a recarga.<h3><hr>
         </div>
     </div>
+    </div>
+</div>
+            <hr>
+            <div class="disque">
+            <img src="/assets/img/disque.PNG"width="300" alt="css">
+            <h2>Disque Denúncia</h2>
+            <h3>Nesse modo o Cliente pode comunicar atraves de <h3>
+            <h3>nosso software algo que ele viu ou aconteceu com ele <h3>
+            <h3>que,então tomaremos as medidas necessarias sobre o <h3>
+            <h3>acontecimento.<h3>
+                <hr>
+        </div>
+    </div>
+</div>
 </div>
  
 <?php require_once $_SERVER['DOCUMENT_ROOT'] . "/includes/rodape.php"; ?>
