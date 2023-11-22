@@ -134,4 +134,29 @@ background-color: #f58634; ;
     color: #fff !important;
     margin-bottom: auto ;
 }
+.local h1{
+    text-align: center;
+    border-bottom:4px solid #f58634;
+    width: 300px;
+    margin: 0 auto;
+}
+.informacoes{
+    text-align: center;
+}
+.contato{
+    text-align: center;
+}
+.atendimento{
+    text-align: center;
+}
+.senac{
+    text-align: center;
+}
+.nos{
+    text-align: center;
+    
+}
+
+
+
 
