@@ -33,12 +33,12 @@
     </style>
 
 <div class="intro-topo">
-        <h1>Bem-vindo à Página de Quem Somos</h1>
+        <h1>Bem-vindo à Página de Saiba Mais.</h1>
         <p>Um pouco sobre a Empresa.</p>
 </div>
     <section id="about-section" class="container">
         <div id="text">
-            <h2>Quem Somos</h2>
+            <h2>Saiba Mais.</h2>
             <p><strong>Somos uma Empresa de Tecnologia, voltada para Web e app. Soluções fáceis e práticas para agilizar nossa vida.
 Responsável pelo controle de Clientes e usuários em transportes Públicos ou Privados.
 Controle de Saldo e Crédito em transporte.

@@ -121,7 +121,11 @@
       <input type="text" id="cvv-cartao" placeholder="CVV" required>
 
       <button id="btn-submit-cartao" onclick="recarregarCartao()">Recarregar</button>
+      
     </div>
+    <div class="" style="margin: 10px;">
+    <a href="/principal/index.php" class="btn btn-secondary" style=" text-decoration: none;">Voltar</a>
+  </div>
   </div>
 
   <script>
